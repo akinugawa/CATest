@@ -7,7 +7,7 @@
     "type": "REST",
     "lang": {
         "en-US": {
-            "name": "Template",
+            "name": "CA0807",
           "description": "A Template for a Custom Activity",
           "step1Label": "Configure Activity"
         }
